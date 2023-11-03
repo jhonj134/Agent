@@ -1,0 +1,7 @@
+C:\Agent\agent\obj\Debug\net7.0\Agent.csproj.AssemblyReference.cache
+C:\Agent\agent\obj\Debug\net7.0\Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Agent\agent\obj\Debug\net7.0\Agent.AssemblyInfoInputs.cache
+C:\Agent\agent\obj\Debug\net7.0\Agent.AssemblyInfo.cs
+C:\Agent\agent\obj\Debug\net7.0\Agent.csproj.CoreCompileInputs.cache
+C:\Agent\agent\obj\Debug\net7.0\Agent.MvcApplicationPartsAssemblyInfo.cs
+C:\Agent\agent\obj\Debug\net7.0\Agent.MvcApplicationPartsAssemblyInfo.cache
