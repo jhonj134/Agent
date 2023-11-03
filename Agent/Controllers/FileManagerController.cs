@@ -3,14 +3,14 @@ using System;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.InteropServices;
-using Seliga.Model;
+using FileManager.Model;
 
 [Route("link")]
 [ApiController]
-public class SeligaController : ControllerBase
+public class FileManagerController : ControllerBase
 {
     [HttpPost]
-    public IActionResult CheckFile([FromBody] SeligaModel request)
+    public IActionResult CheckFile([FromBody] FileManagerModel request)
     {
         try
         {    //Se o json estiver em branco ou ser um valor nulo passa por esse caminho

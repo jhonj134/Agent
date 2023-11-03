@@ -1,6 +1,6 @@
-namespace Seliga.Model
+namespace FileManager.Model
 {
-    public class SeligaModel
+    public class FileManagerModel
     {
         public string Url { get; set; }
     }
