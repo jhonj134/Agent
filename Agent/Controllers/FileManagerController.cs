@@ -47,6 +47,6 @@ public class FileManagerController : ControllerBase
         catch (Exception ex)
         {
             // Lidar com exceções, se necessário.
-            return StatusCode(500, "Teste de msg de retorno! "+ex.Message);
+            return StatusCode(500, "Erro catastrófico! "+ex.Message);
         }
     }}
