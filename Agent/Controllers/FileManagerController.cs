@@ -1,8 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Diagnostics;
-using System.IO;
-using System.Runtime.InteropServices;
 using FileManager.Model;
 
 [Route("link")]
